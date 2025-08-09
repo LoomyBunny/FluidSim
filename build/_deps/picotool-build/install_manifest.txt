@@ -1,0 +1,5 @@
+/data/programming/hello-world-pico2/build/_deps/picotool/picotool
+/data/programming/hello-world-pico2/build/_deps/picotool/picotoolTargets.cmake
+/data/programming/hello-world-pico2/build/_deps/picotool/picotoolTargets-release.cmake
+/data/programming/hello-world-pico2/build/_deps/picotool/picotoolConfig.cmake
+/data/programming/hello-world-pico2/build/_deps/picotool/picotoolConfigVersion.cmake
